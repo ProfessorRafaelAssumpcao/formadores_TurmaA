@@ -20,8 +20,3 @@ body{
     background-color: rgb(245, 239, 239);
 }
 
-#imgprincipal{
-    width: 500px; /*largura*/
-    display: block;
-    margin: auto;
-}
